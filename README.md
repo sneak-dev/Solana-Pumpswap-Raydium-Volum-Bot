@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/562d597f-0961-47e0-802e-ae74341f1fea
 - ✅ Steadly search old wallets & sell tokens & withdraw SOL & close ATA
 - ✅ Auto-logs transactions, volume metrics, and token stats
 - ✅ Up to date PumpSwap SDK for sell & buy & getting pool info & calculate buy, sell amount and so on.
-- ✅ Configurable Parameters: Allows customization of buy amounts, intervals, distribution settings, and more..
+- ✅ Configurable Parameters: Allows customization of buy amounts, intervals, distribution settings, and more......
 
 ## 🚀 Getting Started
 
